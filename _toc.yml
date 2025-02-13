@@ -1,0 +1,48 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: index
+parts:
+  - caption: Deel 1
+    chapters:
+    - file: deel1/week1
+      sections:
+      - file: deel1/opgaven/opgave1-1
+    - file: deel1/week2
+      sections:
+      - file: deel1/opgaven/opgave1-2
+    - file: deel1/inleveren
+
+  - caption: Deel 2
+    chapters:
+    - file: deel2/week3
+      sections:
+      - file: deel2/opgaven/opgave2-1
+    - file: deel2/week4
+      sections:
+      - file: deel2/opgaven/opgave2-2
+      - file: deel2/opgaven/opgave2-3
+    - file: deel2/inleveren 
+
+  - caption: Deel 3
+    chapters:
+    - file: deel3/week5
+      sections:
+      - file: deel3/opgaven/opgave3-1
+      - file: deel3/opgaven/opgave3-2
+    - file: deel3/week6
+      sections:
+      - file: deel3/opgaven/opgave3-3
+    - file: deel3/inleveren
+
+  - caption: Deel 4
+    chapters:
+    - file: deel4/week7
+      sections:
+      - file: deel4/opgaven/opgave4-1
+      - file: deel4/opgaven/opgave4-2
+    - file: deel4/week8
+      sections:
+      - file: deel4/opgaven/opgave4-3
+    - file: deel4/inleveren
